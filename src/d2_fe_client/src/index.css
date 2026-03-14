@@ -1,0 +1,9 @@
+:root {
+  --font-size: 16px;
+}
+
+pre {
+  background-color: lightgray;
+  width: fit-content;
+  padding: 1rem;
+}
